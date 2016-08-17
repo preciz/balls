@@ -2,7 +2,7 @@
 
 ![Alt text](example.gif?raw=true "Balls")
 
-### task:
+### Your task:
 
 Create a centered box, with a drop button. It must be similar to the example gif.
 Pressing the drop button yields the following results:
