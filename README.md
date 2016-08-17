@@ -10,7 +10,6 @@ Create a centered box, with a drop button. It must be similar to the example gif
 Pressing the drop button yields the following results:
 
 - If there are no balls in the box it inserts a pink ball.
-
 - Every third ball is a green ball.
 - Every fifth ball is a blue ball.
 - Every fifteenth ball is a purple ball.
