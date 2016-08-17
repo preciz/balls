@@ -12,7 +12,7 @@ Pressing the drop button yields the following results:
 - Every third ball is a green ball.
 - Every fifth ball is a blue ball.
 - Every fifteenth ball is a purple ball.
-- Every other ball is a gray ball
+- Every other ball is a gray ball.
 
 The sum shows the number of balls.
 
@@ -24,6 +24,6 @@ The score shows the sum of the balls scores:
 
 ## Constraints:
 
-- After the view is loaded with the empty box JS takes over, the rendering of the balls must be in JS
+- After the view is loaded with the empty box, JS takes over. The rendering of the balls must be in JS.
 - The decision what kind of ball comes next must come from the backend, (drop button fires a request)
-- You can't use JS Libraries, no jQuery/Angular/React or any library, just vanilla JS
+- You can't use JS Libraries, no jQuery/Angular/React or any library, just vanilla JS.
