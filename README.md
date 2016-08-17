@@ -2,7 +2,7 @@
 
 ![Alt text](example.gif?raw=true "Balls")
 
-### Your task:
+## Your task:
 
 Create a centered box, with a drop button. It must be similar to the example gif.
 Pressing the drop button yields the following results:
@@ -22,7 +22,8 @@ The score shows the sum of the balls scores:
 - Blue Ball:   5
 - Purple Ball: 15
 
-Constraints:
+## Constraints:
+
 - After the view is loaded with the empty box JS takes over, the rendering of the balls must be in JS
 - The decision what kind of ball comes next must come from the backend, (drop button fires a request)
 - You can't use JS Libraries, no jQuery/Angular/React or any library, just vanilla JS
