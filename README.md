@@ -1,6 +1,6 @@
 # Balls
 
-The goal of this fullstack excersize is to get to know how you learn, digest and implement new things. We expect you to write production quality code with today’s CSS and Javascript standards and clean object-oriented ruby code.
+The goal of this fullstack excersize is to get to know how you learn, digest and implement new things. We expect you to write production quality code with today’s CSS and JavaScript standards and clean object-oriented Ruby code.
 
 ![Alt text](example.gif?raw=true "Balls")
 
