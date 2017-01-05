@@ -25,7 +25,7 @@ The score shows the sum of the balls scores:
 
 ## Constraints
 
-- After the HTML view is loaded with the empty box, JS takes over. No more server rendered HTML tags, no render to string.
+- After the HTML view is loaded with the empty box, JS takes over. No more server rendered HTML or render to html string.
   The rendering of the balls must be in JS. You can't insert an html string sent by the server. You need to dynamically create the balls in JS.
 - The drop button fires a JSON request, sends down the number of balls, the backend responds in JSON which ball colour comes next.
 - You can't use JS Libraries, no jQuery/Angular/React or any library, just vanilla JS.
