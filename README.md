@@ -1,5 +1,7 @@
 # Balls
 
+_**Very Important:**_ _Please, do not fork this repository so we can avoid exposing the possible solutions on the web!_
+
 The goal of this fullstack excersize is to get to know how you learn, digest and implement new things. We expect you to write production quality code with today’s CSS and JavaScript standards and clean object-oriented Ruby code.
 
 ![Alt text](example.gif?raw=true "Balls")
