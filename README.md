@@ -31,6 +31,7 @@ The score shows the sum of the balls scores:
   The rendering of the balls must be in JS. You can't insert an html string sent by the server. You need to dynamically create the balls in JS.
 - The drop button fires a JSON request, sends down the number of balls, the backend responds in JSON which ball colour comes next.
 - You can't use JS Libraries, no jQuery/Angular/React or any library, just vanilla JS.
+- You can't use CSS frameworks, just vanilla CSS/SCSS
 
 ## Bonus
 
